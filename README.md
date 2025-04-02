@@ -1,0 +1,1 @@
+These are the solutions to the Problems that are on Codeforces.com. The solutions are proposed by me and other people can have different approaches to the same problem. So, feel free to check out their solution and is you find some interesting concept or logic. Please let me know ;)
