@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class BeautMat {
+// Problem 263A
+
+public class Beautiful_Matrix {
     public static void main(String[] args) {
          int Matrix[][] = new int[5][5];
 

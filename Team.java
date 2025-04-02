@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Team231A {
+// Problem 231A
+
+public class Team {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);

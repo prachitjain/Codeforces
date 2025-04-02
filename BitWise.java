@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Problem 282A
+
 public class BitWise {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

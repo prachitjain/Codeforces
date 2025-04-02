@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class PetyaStrgs {
+// Problem 112A
+
+public class Petya_and_Strings {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         

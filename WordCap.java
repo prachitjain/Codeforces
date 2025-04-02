@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class WordCap {
+// Problem 281A
+
+public class Word_Capitalization {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

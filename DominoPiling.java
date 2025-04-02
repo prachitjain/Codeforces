@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+// Problem 50A
+
 public class DominoPiling {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
